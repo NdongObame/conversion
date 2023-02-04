@@ -1,4 +1,4 @@
-Practice: Conversions units of measure
+Practice: Conversions of measurement units
 
 Write an algorithm that alternately asks the user to enter the conversion domain,
 the starting unit, the ending unit and finally the value to be converted. Then after performing
